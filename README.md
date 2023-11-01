@@ -18,4 +18,4 @@ A Netflix-Clone responsive project was created
 <br/>
 <h2> Find the screen gif below </h2> 
 
-![](/public/netflixClone.gif)
+![](/public/netflixClone11.gif)
